@@ -36,3 +36,4 @@ lerna-debug.log*
 
 .development.env
 .production.env
+README.md
